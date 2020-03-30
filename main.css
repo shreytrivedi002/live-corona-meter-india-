@@ -1,0 +1,33 @@
+/* .o3 {
+    margin-left: 500px;
+    margin-top: 0px;
+    padding-top: 0px;
+    position: static;
+} */
+
+#o2 {
+    list-style-type: none;
+}
+
+.body {
+    display: flex;
+}
+
+.STATES {
+    width: 200px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.CONF {
+    width: 450px;
+}
+
+html {
+    background-size: cover;
+    background-image: url(coronavirus.webp);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
